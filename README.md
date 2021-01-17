@@ -1,0 +1,2 @@
+# py.checkio.solution
+Solution
